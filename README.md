@@ -12,7 +12,7 @@ Kotlin or Java
 ```
 
 ## License
-[Apache 2.0](https://github.com/aospstudio/build-flavors-samples/blob/main/LICENSE)
+[Apache 2.0](https://github.com/aospstudio/splash-screen-samples/blob/main/LICENSE)
 
 ## Developer Website
 [AOSP STUDIO](https://aospstudio.com)
